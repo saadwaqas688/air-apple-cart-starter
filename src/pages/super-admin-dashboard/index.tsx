@@ -1,7 +1,4 @@
-import styles from '../../styles/SuperAdminDashboard.module.scss';
-function SuperAdminDashboardPage() {
-  return (
-    <div className={styles.superadmindashboard}>Super Admin Dashboard</div>
-  );
+function SuperAdminPage() {
+  return <div>Super Admin Dashboard Page</div>;
 }
-export default SuperAdminDashboardPage;
+export default SuperAdminPage;
